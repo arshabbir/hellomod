@@ -11,3 +11,9 @@ func SayHello() {
 func Salut() {
 	fmt.Println("Salut Go!")
 }
+
+
+// arshabbir says `Hello Go!` in Romanian
+func Salaam() {
+	fmt.Println("arshabbir: Asalamalekum!")
+}
